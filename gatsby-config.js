@@ -5,19 +5,18 @@ module.exports = {
       options: {},
     },
   ],
-  // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Kira McLean`,
+    author: `Kira McLean`,
+    description: `My blog where I write about what I'm learning, what I'm doing, and generally what's on my mind.`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/kiraemclean`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/kiramclean`,
       },
     ],
   },
